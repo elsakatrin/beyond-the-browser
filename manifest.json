@@ -1,0 +1,9 @@
+{
+  "background_color": "#25292e",
+  "display": "standalone",
+  "lang": "en",
+  "name": "beyond-the-browser",
+  "short_name": "beyond-the-browser",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
